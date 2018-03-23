@@ -21,3 +21,5 @@ Hashing Algorithm: <br>
 ##### Discord: https://discordapp.com/invite/PfqZpmR
 
 ##### Grupo Telegram: https://t.me/egamexofficial
+
+##### Twitter: https://twitter.com/egamexofficial
