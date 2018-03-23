@@ -2,7 +2,7 @@
 
 
 
-## EgameX - Wallet GUI! <b>
+##                                                  EgameX - Wallet GUI! <b>
 
 #### 1) Para instalar a Wallet-Gui, vamos fazer download  da [EgameX Wallet GUI ](https://github.com/Egamex/Wallets/tree/master/Windows/Arquivos), apos efetuar o donwload, vamos extrair o arquivo.
 ##
