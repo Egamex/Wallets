@@ -24,6 +24,21 @@
 ##
 ![Alt Text](https://raw.githubusercontent.com/Egamex/Wallets/master/img/wallets/windows/egamex-wallet-gui-04.PNG)
 
+##
+#### 4.1) Após o backup da carteira, sera gerado um arquivo com extenção .dat.
+##
+![Alt Text](https://raw.githubusercontent.com/Egamex/Wallets/master/img/wallets/windows/egamex-wallet-gui-04.1.PNG)
+
+##
+#### 5) Vamos fazer backup do arquivo private key, clique em ajuda => janela de depuração => console, sera exibido a tela do console, vamos executar o comando abaixo e armazena a private key em local seguro.
+##
+```sh
+$ dumpprivkey + Wallet
+```
+##
+![Alt Text](https://raw.githubusercontent.com/Egamex/Wallets/master/img/wallets/windows/egamex-wallet-gui-05.PNG)
+
+
 
 
 ## Nossos Links!
