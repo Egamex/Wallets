@@ -62,6 +62,10 @@ $ dumpprivkey + Wallet
 ##
 ![Alt Text](https://raw.githubusercontent.com/Egamex/Wallets/master/img/wallets/windows/egamex-wallet-gui-08.PNG)
 
+#### 2) Validando a transação, Clique em transações, sera exibido todas as transações realizadas.
+##
+![Alt Text](https://raw.githubusercontent.com/Egamex/Wallets/master/img/wallets/windows/egamex-wallet-gui-09.PNG)
+
 
 
 ## Nossos Links!
