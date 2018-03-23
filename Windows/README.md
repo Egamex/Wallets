@@ -45,6 +45,23 @@ $ dumpprivkey + Wallet
 ##
 ![Alt Text](https://raw.githubusercontent.com/Egamex/Wallets/master/img/wallets/windows/egamex-wallet-gui-06.PNG)
 
+##
+#### 1.4) Informe uma senha de sua escolha, clique em OK.
+##
+![Alt Text](https://raw.githubusercontent.com/Egamex/Wallets/master/img/wallets/windows/egamex-wallet-gui-07.PNG)
+
+
+## Efetuar Pagamentos!
+
+#### 1) Clique em Enviar moedas, sera exibido a imagem abaixo:
+<b></b>
+<b></b>
+#### Pagar Para: Insira a Wallet que vai receber as EgameX.
+#### Etiqueta: coloque uma mensagem para identificar o envio.
+#### Quantidade: valor que sera enviado. 
+##
+![Alt Text](https://raw.githubusercontent.com/Egamex/Wallets/master/img/wallets/windows/egamex-wallet-gui-08.PNG)
+
 
 
 ## Nossos Links!
