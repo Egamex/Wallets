@@ -1,4 +1,4 @@
-![Alt Text](https://raw.githubusercontent.com/blooddonationcoin/blooddonationcoin/master/blooddonationcoin/img/blooddonationcoin.png)
+![Alt Text](https://github.com/Egamex/Wallets/blob/master/img/wallets/windows/)
 
 ## EgameX!
 
