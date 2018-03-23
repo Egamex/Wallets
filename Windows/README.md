@@ -47,37 +47,6 @@ $ dumpprivkey + Wallet
 
 
 
-## Segurança!
-
-#### 1) Com as atualizações realizadas, Clique em arquivo => backup carteira.
-#### OBS: recomendamos fazer o backup da carteira e armazenar em local seguro.
-##
-![Alt Text](https://raw.githubusercontent.com/Egamex/Wallets/master/img/wallets/windows/egamex-wallet-gui-04.PNG)
-
-##
-#### 1.1) Após o backup da carteira, sera gerado um arquivo com extenção .dat.
-##
-![Alt Text](https://raw.githubusercontent.com/Egamex/Wallets/master/img/wallets/windows/egamex-wallet-gui-04.1.PNG)
-
-##
-#### 1.2) Vamos fazer backup do arquivo private key, clique em ajuda => janela de depuração => console, sera exibido a tela do console, vamos executar o comando abaixo e armazena a private key em local seguro.
-##
-```sh
-$ dumpprivkey + Wallet
-```
-##
-![Alt Text](https://raw.githubusercontent.com/Egamex/Wallets/master/img/wallets/windows/egamex-wallet-gui-05.PNG)
-
-
-
-
-
-
-
-
-
-
-
 ## Nossos Links!
 
 ##### Discord: https://discordapp.com/invite/PfqZpmR
