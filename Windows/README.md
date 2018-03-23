@@ -15,6 +15,7 @@
 
 ##
 #### 3) Ao executar a EgameX wallet GUI, sera exibido a imagem abaixo, vamos aguardar a atualização da carteira.
+#### Atenção: O sincronismo pode demorar alguns minutos
 ##
 ![Alt Text](https://raw.githubusercontent.com/Egamex/Wallets/master/img/wallets/windows/egamex-wallet-gui-03.PNG)
 
