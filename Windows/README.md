@@ -11,7 +11,7 @@
 ##
 #### 2) Após extrair os arquivos, vamos iniciar a EgameX wallet GUI.
 ##
-![Alt Text](https://raw.githubusercontent.com/Egamex/Wallets/master/img/wallets/windows/egamex-wallet-gui-02.PNG)
+![Alt Text](https://raw.githubusercontent.com/Egamex/Wallets/master/img/wallets/windows/egamex-wallet-gui-02.jpg)
 
 ##
 #### 3) Ao executar a EgameX wallet GUI, sera exibido a imagem abaixo, vamos aguardar a atualização da carteira.
