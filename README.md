@@ -8,12 +8,11 @@ EgameX é uma criptomoeda que revolucionará o mundo dos jogos online. Uma moeda
 
 
 ### Dados técnicos <br>
-Será uma moeda minerável um FORK da ! <br>
-Forked from: <br>
-Total Number of Coins: <br>
+Será uma moeda FORK da Egame! <br>
+Forked from: EgameX <br>
+Total Number of Coins: 700000000 <br>
 Consensus Mechanism: <br>
-Hashing Algorithm: <br>
-
+Hashing Algorithm: Scrypt <br>
 
 
 ## Nossos Links!
