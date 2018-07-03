@@ -27,17 +27,19 @@ Percentagem de PoS: 25% ao ano <br>
 ## Links!
 Site: https://www.egamex.ml
 
-Forum: https://bitcointalk.org/index.php?topic=3122807.0 <br>
-       https://bitcointalk.org/index.php?topic=4487966.new#new
+Forum:  <br>
+https://bitcointalk.org/index.php?topic=3122807.0 <br>
+https://bitcointalk.org/index.php?topic=4487966.new#new
 
-Twitter: https://twitter.com/Egamexofficial <br>
-	 https://twitter.com/Egamexoficial
+Twitter:  <br>
+https://twitter.com/Egamexofficial <br>
+https://twitter.com/Egamexoficial
 
 Facebook: https://www.facebook.com/groups/104265220413504/
 
 Telegram: <br>
-	Portuguese: https://t.me/egamexofficial <br>
-	English: https://t.me/egamexofficialenglish
+Portuguese: https://t.me/egamexofficial <br>
+English: https://t.me/egamexofficialenglish
 
 Discord: https://discord.gg/ME4M8cN
 
