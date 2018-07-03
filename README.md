@@ -27,17 +27,17 @@ Percentagem de PoS: 25% ao ano <br>
 ## Links!
 Site: https://www.egamex.ml
 
-Forum: https://bitcointalk.org/index.php?topic=3122807.0
+Forum: https://bitcointalk.org/index.php?topic=3122807.0 <br>
        https://bitcointalk.org/index.php?topic=4487966.new#new
 
-Twitter: https://twitter.com/Egamexofficial
-	       https://twitter.com/Egamexoficial
+Twitter: https://twitter.com/Egamexofficial <br>
+	 https://twitter.com/Egamexoficial
 
 Facebook: https://www.facebook.com/groups/104265220413504/
 
-Telegram: 
-    Portuguese: https://t.me/egamexofficial
-	  English: https://t.me/egamexofficialenglish
+Telegram: <br>
+	Portuguese: https://t.me/egamexofficial <br>
+	English: https://t.me/egamexofficialenglish
 
 Discord: https://discord.gg/ME4M8cN
 
@@ -47,16 +47,16 @@ Wallet: https://github.com/Egamex/Wallets
 
 Exchanges:
 
-https://cryptohub.online/
-https://www.troca.ninja/
-https://nibyx.com/
-https://www.brasilchanger.com.br/
-https://icqbase.com/
+https://cryptohub.online/ <br>
+https://www.troca.ninja/ <br>
+https://nibyx.com/ <br>
+https://www.brasilchanger.com.br/ <br>
+https://icqbase.com/ <br>
 
 Voting in progress:
 
-https://feedback.coinfalcon.com/coin-request/p/egamex-egx
-https://mercatox.com/coins/list?name=egx&page=16
-https://quantadex.com/vote/440/egamex
-https://shardax.com/listing/coin.php?coin=EgameX EGX
-https://c-cex.com/?id=vote
+https://feedback.coinfalcon.com/coin-request/p/egamex-egx <br>
+https://mercatox.com/coins/list?name=egx&page=16 <br>
+https://quantadex.com/vote/440/egamex <br>
+https://shardax.com/votes/coin?coin=EgameX%20EGX <br>
+https://c-cex.com/?id=vote <br>
